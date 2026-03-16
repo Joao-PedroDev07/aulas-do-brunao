@@ -11,4 +11,8 @@ function subtraçaõ($n1, $n2){
 function mult($n1, $n2){
     return ($n1 * $n2);
 }
+
+function divisão($n1, $n2){
+    return ($n1 / $n2);
+}
 ?>
